@@ -12,10 +12,11 @@
 - **アンケート機能**: 購入時にアンケートを設定し、顧客のフィードバックを収集します。
 - **ウィンドウサイズの調整**: 商品数や画像サイズに応じてウィンドウサイズが自動的に調整されます。
 
-## 必要条件
+## 必要条件 (PointGuiSale.exe)
+- Windows
 
+## 必要条件 (PointGuiSale.py)
 - Python 3.x
-- `tkinter` (Python標準ライブラリ)
 - `PIL` (Python Imaging Library)
 
 ## インストール
