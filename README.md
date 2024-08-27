@@ -51,11 +51,11 @@ CUIで起動する場合は下記のようにアプリケーションをセッ�
 
 2. **管理タブ**で、商品名、価格、および画像を設定します。必要に応じて商品数を更新してください。
 
-![image](https://github.com/user-attachments/assets/1a832dab-32ad-476c-bdc2-a663d9a41049)
+![image](https://github.com/user-attachments/assets/8ed92f30-bda4-4a61-b792-321c12842dfd)
 
 3. **資格タブ**で、資格名と割引率を設定します。資格数を変更することも可能です。
 
-![image](https://github.com/user-attachments/assets/5c2c0b35-8cf7-4f05-a886-16bdeca95f0b)
+![image](https://github.com/user-attachments/assets/41731cf3-df9b-4f5d-9eb1-f289bac71223)
 
 4. **レジタブ**で、顧客の名前、資格、購入する商品の数量を入力します。請求額が自動的に計算されます。
 
@@ -100,7 +100,3 @@ CUIで起動する場合は下記のようにアプリケーションをセッ�
 ## ライセンス
 
 このプロジェクトは、[MITライセンス](LICENSE)のもとで公開されています。
-
----
-
-これで日本語のREADMEファイルの雛形が完成しました。必要に応じて、追加や修正を行ってください。
