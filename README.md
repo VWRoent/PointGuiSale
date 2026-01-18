@@ -90,6 +90,8 @@ v2.0.0 では UI を大幅に刷新し、配色テーマ切替・顧客タブ・
 * 請求額は自動計算されます
 * 「請求額コピー」は **数字のみ**コピーされます（そのまま貼り付け用）
 
+<img width="971" height="683" alt="image" src="https://github.com/user-attachments/assets/31745e5b-e033-4d32-9b46-00ee113510bc" />
+
 ### 2) 管理
 
 * **商品数：左/右**を設定して反映（合計が商品数になります）
@@ -101,11 +103,15 @@ v2.0.0 では UI を大幅に刷新し、配色テーマ切替・顧客タブ・
 * 「商品決定」で設定を保存
 * 「ID反映」で商品IDに紐づく既存設定（名前/価格/画像/説明）を一括で呼び出し
 
+<img width="969" height="622" alt="image" src="https://github.com/user-attachments/assets/5320a03e-0ccc-4375-aa2a-cff71dbcccde" />
+
 ### 3) 顧客
 
 * 顧客を選択し、購入履歴（集計）と購入比率を確認
 * 上部の欄で「愛称」「お仕事」「名前変更」を入力して「変更」
 * 右側の画像エリアで顧客画像を追加/選択
+
+<img width="961" height="977" alt="image" src="https://github.com/user-attachments/assets/c7fe52da-2bc4-485b-be52-3c7cea8bda73" />
 
 ### 4) 履歴
 
@@ -185,5 +191,6 @@ v2.0.0 では UI を大幅に刷新し、配色テーマ切替・顧客タブ・
 
 このプロジェクトは MIT ライセンスのもとで公開されています。
 ただし、MITライセンス、著作者の表記は不要です。
+
 
 
